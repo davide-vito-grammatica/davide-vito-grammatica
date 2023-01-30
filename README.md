@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @davide-vito-grammatica
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @davide-vito-grammatica. Graduated in Computer Engineering, I am a highly motivated and goal-focused professional with over 20 years in ICT
+- 👀 I’m interested in wide range of technologies and infrastructures
+- 🌱 I'm currently learning k8s and containerized architecture
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-davide-vito-grammatica/davide-vito-grammatica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ... go to https://www.cogram.it
