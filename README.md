@@ -15,7 +15,7 @@
 -->
 
 # 👋 Hi, I’m **Davide Vito Grammatica**
-### 💡 *Software Engineer · DevOps Architect · Automation & Cloud Specialist*  
+### 💡 *Software Engineer · ICT Architect · Automation & Cloud Specialist*  
 #### _"Nihil difficile volenti"_ — *Nothing is difficult for the willing.*
 
 ![GitHub followers](https://img.shields.io/github/followers/davide-vito-grammatica?label=Followers&style=social)
@@ -25,7 +25,7 @@
 ---
 
 ## 🧭 About Me
-I’m an **Italian Software Engineer** with a passion for **DevOps, cloud architectures, automation, and data engineering**.  
+I’m an **Italian Computer Engineer** with a passion for **DevOps, cloud architectures, automation, data engineering and AI**.  
 I design and maintain **scalable back-end systems**, orchestrate **CI/CD pipelines**, and integrate **AI-driven and IoT solutions** within complex infrastructures.
 
 My focus lies in **bridging enterprise systems, cloud platforms, and edge devices** — leveraging technologies like **Docker**, **Kubernetes**, **MySQL**, **PHP**, and **Python** to build secure, automated, and data-driven environments.
