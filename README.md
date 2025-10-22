@@ -4,18 +4,19 @@
   ================================
   title: Davide Vito Grammatica | Software Engineer, DevOps Architect, MySQL & PHP Specialist
   description: Official GitHub profile of Davide Vito Grammatica – Italian Software Engineer and DevOps Architect. Expert in PHP, MySQL, Proxmox, Docker, Kubernetes, AI automation, and Home Assistant integrations.
-  keywords: Davide Vito Grammatica, GitHub, Software Engineer Italy, DevOps Architect, PHP Developer, MySQL Specialist, Proxmox Expert, Docker Kubernetes Pipelines, Home Assistant Automation, AI Integration, CoGram, The ProXimus, Digital Innovation, Automation Engineer, Cloud Architect
+  keywords: Davide Vito Grammatica, GitHub, Software Engineer Italy, DevOps Architect, PHP Developer, MySQL Specialist, Proxmox Expert, Docker Kubernetes Pipelines, Home Assistant Automation, AI Integration, CoGram, The ProXimus, Digital Innovation, Automation Engineer, Cloud Architect, Nihil difficile volenti
   author: Davide Vito Grammatica
-  canonical: https://github.com/davidevitogrammatica
+  canonical: https://github.com/davide-vito-grammatica/
   robots: index, follow
 -->
 
 # 👋 Hi, I’m **Davide Vito Grammatica**
-### 💡 *Software Engineer · DevOps Architect · Automation & Cloud Specialist*
+### 💡 *Software Engineer · DevOps Architect · Automation & Cloud Specialist*  
+#### _"Nihil difficile volenti"_ — *Nothing is difficult for the willing.*
 
-![GitHub followers](https://img.shields.io/github/followers/davidevitogrammatica?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/davidevitogrammatica?affiliations=OWNER&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=davidevitogrammatica&color=0A66C2&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/davide-vito-grammatica?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/davide-vito-grammatica?affiliations=OWNER&style=social)
+![Profile views](https://komarev.com/ghpvc/?username=davide-vito-grammatica&color=0A66C2&style=flat-square)
 
 ---
 
@@ -53,7 +54,7 @@ My focus lies in **bridging enterprise systems, cloud platforms, and edge device
 
 ## 🧭 Philosophy
 > *“Automation isn’t just about efficiency — it’s about clarity, repeatability, and innovation.”*  
-I believe in clean architecture, code reusability, and building resilient systems that adapt and evolve over time.
+> *“Nihil difficile volenti” reminds me that no challenge is too complex when the will to build and learn is stronger than the obstacle.*
 
 ---
 
@@ -66,14 +67,14 @@ I believe in clean architecture, code reusability, and building resilient system
 ---
 
 ## 📈 GitHub Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidevitogrammatica&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidevitogrammatica&layout=compact&theme=github_dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidevitogrammatica&theme=github-dark-blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davide-vito-grammatica&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davide-vito-grammatica&layout=compact&theme=github_dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davide-vito-grammatica&theme=github-dark-blue)
 
 ---
 
 ## 🔍 SEO & Indexing Tags
-`Davide Vito Grammatica GitHub` · `Software Engineer Italy` · `DevOps Architect` · `PHP Developer` · `MySQL Specialist` · `Proxmox Expert` · `Docker Kubernetes Pipelines` · `Home Assistant Automation` · `AI Integration Developer` · `Cloud Automation Engineer` · `Linux DevOps Italy` · `Smart Home Engineer` · `Data Automation Specialist`
+`Davide Vito Grammatica GitHub` · `Software Engineer Italy` · `DevOps Architect` · `PHP Developer` · `MySQL Specialist` · `Proxmox Expert` · `Docker Kubernetes Pipelines` · `Home Assistant Automation` · `AI Integration Developer` · `Cloud Automation Engineer` · `Linux DevOps Italy` · `Smart Home Engineer` · `Data Automation Specialist` · `Nihil difficile volenti`
 
 ---
 
@@ -83,7 +84,7 @@ I believe in clean architecture, code reusability, and building resilient system
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Davide Vito Grammatica",
-  "url": "https://github.com/davidevitogrammatica",
+  "url": "https://github.com/davide-vito-grammatica/",
   "sameAs": [
     "https://www.cogram.it",
     "https://www.linkedin.com/in/davidevitogrammatica/"
@@ -94,5 +95,6 @@ I believe in clean architecture, code reusability, and building resilient system
     "name": "CoGram"
   },
   "knowsAbout": ["DevOps", "PHP", "MySQL", "Proxmox", "Docker", "Kubernetes", "Home Assistant", "AI Automation"],
-  "nationality": "Italian"
+  "nationality": "Italian",
+  "motto": "Nihil difficile volenti"
 }
