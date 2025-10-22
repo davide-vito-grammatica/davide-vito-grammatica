@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/banner-github.svg" alt="Davide Vito Grammatica — Nihil difficile volenti" width="100%" />
+  <img src="./assets/devide-vito-grammatica.svg" alt="Davide Vito Grammatica | Software Engineer • DevOps Architect • Automation & Cloud Specialist" width="100%" />
 </p>
+
 <!--
   ================================
   SEO METADATA – DAVIDE VITO GRAMMATICA
