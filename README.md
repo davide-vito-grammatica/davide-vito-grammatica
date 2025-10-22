@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/banner-github.svg" alt="Davide Vito Grammatica — Nihil difficile volenti" width="100%" />
+</p>
 <!--
   ================================
   SEO METADATA – DAVIDE VITO GRAMMATICA
