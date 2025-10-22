@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/devide-vito-grammatica.svg" alt="Davide Vito Grammatica | Software Engineer • DevOps Architect • Automation & Cloud Specialist" width="100%" />
+  <img src="./assets/devide-vito-grammatica.png" alt="Davide Vito Grammatica | Software Engineer • DevOps Architect • Automation & Cloud Specialist" width="100%" />
 </p>
 
 <!--
